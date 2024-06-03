@@ -2,20 +2,28 @@
 node_modules
 tmp/
 
+# Compiled Objec Files etc
 *.o
 *.a
 *.so
 
+# logs
+.log
+
+# Folders
 _obj
 _test
 vendor/
 
+# Compiled binary files
 *.exe
 *.out
 
+# macOS specific files
 .DS_Store
 
 /bin/
 *.out
 
+# Test REST API files
 *.rest
