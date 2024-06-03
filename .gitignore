@@ -8,7 +8,7 @@ tmp/
 *.so
 
 # logs
-.log
+*.log
 
 # Folders
 _obj
